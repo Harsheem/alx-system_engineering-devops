@@ -1,1 +1,1 @@
-switchs current user to betty
+script that prints path for CWD
